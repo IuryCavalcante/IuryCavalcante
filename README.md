@@ -25,6 +25,6 @@ By day I run technology at CNC, the Brazilian National Confederation of Commerce
 
 **Toolbox I keep coming back to:** JavaScript · TypeScript · Node.js · React · Chrome Extensions · AI APIs
 
-**Let's connect:** [ORCID](https://orcid.org/0009-0008-0893-1404)
+**Let's connect:** [LinkedIn](https://www.linkedin.com/in/IuryCavalcante) · [ORCID](https://orcid.org/0009-0008-0893-1404)
 
 <sub>Always tinkering. If something here sparks an idea, open an issue or reach out.</sub>
