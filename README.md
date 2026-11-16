@@ -1,4 +1,4 @@
-### Hi, I'm Iury 👋
+### Hi, I'm Iury 🌅
 **I turn technological complexity into clarity for decisions that move businesses forward.**
 
 Less hype. More clarity.
