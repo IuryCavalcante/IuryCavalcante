@@ -13,11 +13,10 @@ I lead. I investigate. I deliver.
 
 **What I'm exploring right now**
 - ASDLC: rethinking and testing the AI-native way to build software
-- Practical AI: Jev and computer vision, applied to real problems
+- Practical AI: applying classification models and computer vision to real problems
 - AI governance: how organizations adopt AI with judgment, not hype
 - Technical debt and software economics: my own research agenda, started in my master's in Informatics at UNIRIO
 
-  
 **Featured projects**
 | Project | What it is |
 |---|---|
